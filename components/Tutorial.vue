@@ -23,10 +23,6 @@ export default {
     }
   },
 
-  created() {
-    console.log('created: ', Date.now())
-  },
-
   mounted() {},
 
   methods: {
