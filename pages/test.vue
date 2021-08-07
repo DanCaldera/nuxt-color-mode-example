@@ -97,11 +97,11 @@ export default {
   },
 
   created() {
-    console.log('created: ', Date.now())
+    // console.log('created: ', Date.now())
   },
 
   mounted() {
-    console.log('mounted', Date.now())
+    // console.log('mounted', Date.now())
     this.increment()
   },
 
