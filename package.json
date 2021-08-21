@@ -19,7 +19,6 @@
     "@nuxtjs/color-mode": "^2.1.1",
     "@nuxtjs/pwa": "^3.3.5",
     "bcrypt": "^5.0.1",
-    "bootstrap": "^5.1.0",
     "chart.js": "^3.5.1",
     "colors": "^1.4.0",
     "cookieparser": "^0.1.0",
@@ -65,10 +64,8 @@
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
     "jest": "^27.0.5",
-    "node-sass": "^6.0.1",
     "postcss": "^8.3.5",
     "prettier": "^2.3.2",
-    "sass-loader": "^12.1.0",
     "ts-jest": "^27.0.3",
     "vue-jest": "^3.0.4"
   }
