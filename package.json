@@ -32,7 +32,7 @@
     "fuse.js": "^6.4.6",
     "js-cookie": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.13.7",
+    "mongoose": "^5.13.12",
     "mongoose-unique-validator": "^2.0.3",
     "morgan": "^1.10.0",
     "mqtt": "^4.2.8",
